@@ -26,3 +26,5 @@ else:
     print("Student's name:", Students_name)
     print("Average marks:", round(average_marks, 2))
     print("Final grade:", grade)
+
+    print("Thank you for using the grade calculator!")
